@@ -1,0 +1,29 @@
+.atom {
+  background: url("img/index.png") -10px 0px;
+  width: 100px;
+  height: 100px;
+}
+
+.grass {
+  background: url("img/index.png") -120px 0px;
+  width: 100px;
+  height: 100px;
+}
+
+.heart {
+  background: url("img/index.png") -10px -110px;
+  width: 100px;
+  height: 100px;
+}
+
+.paw {
+  background: url("img/index.png") -120px -110px;
+  width: 100px;
+  height: 100px;
+}
+
+.blue-bg {
+  background-color: #ccccff;
+  width: 100px;
+  height: 100px;
+}

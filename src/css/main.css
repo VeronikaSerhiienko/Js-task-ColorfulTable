@@ -1,0 +1,40 @@
+.atom {
+  background-image: url("../img/index.png");
+  background-position: -10px -0px;
+  width: 100px;
+  height: 100px;
+}
+
+.grass {
+  background-image: url("../img/index.png");
+  background-position: -120px -0px;
+  width: 100px;
+  height: 100px;
+}
+
+.heart {
+  background-image: url("../img/index.png");
+  background-position: -10px -110px;
+  width: 100px;
+  height: 100px;
+}
+
+.paw {
+  background-image: url("../img/index.png");
+  background-position: -120px -110px;
+  width: 100px;
+  height: 100px;
+}
+
+.blue-bg {
+  background-color: #ccccff;
+  width: 100px;
+  height: 100px;
+}
+
+.white-bg {
+  background-color: #fff;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
